@@ -1,0 +1,4 @@
+Banks must review privileged access at least every 90 days.
+Evidence of each review must be retained for 12 months.
+High-risk access exceptions must be remediated within 5 business days.
+The bank must monitor material access changes and investigate alerts.
